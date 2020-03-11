@@ -1,4 +1,3 @@
-Management:
 Linux:
 git clone https://github.com/AlexZiroYT/IPinfo.git
 cd IPinfo
